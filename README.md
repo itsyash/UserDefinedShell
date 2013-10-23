@@ -9,7 +9,10 @@ Run the process by ./terminal
 
 
 
-Commands - (The following commands are supported)
+Commands - 
+
+(The following commands are supported)
+
 1) ls, ps ,ps -aux, find etc - All Linux shell commands are run
 
 2) Redirection to file or to other commands; eg : ls > log or ls | sort
